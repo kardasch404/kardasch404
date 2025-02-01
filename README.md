@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria Kardache</h1>
-<h3 align="center">Software Learner | Chess Player</h3>
+<h3 align="center">Aspiring Full-Stack Developer | Chess Player</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Welcome+to+my+world+of+code+and+chess...">
@@ -10,27 +10,40 @@
 ---
 
 ### **About Me**
-- 🔭 I’m currently working on [C_workshop](https://github.com/zakaria-123kardache/solutions_c_workshop)  
-- 🌱 I’m currently learning **C language** and exploring cybersecurity  
-- ♟️ Chess Player: [Chess.com Profile](https://www.chess.com/member/yourusername) | Rating: 1500+  
-- 💬 Ask me about **C language** or **chess strategies**  
-- 📫 How to reach me: **kardachezakaria45@gmail.com**  
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/zakaria-kardache-59339a21a/)  
+- 🔭 I’m currently working on my goal 🎯 to become a good developer.  
+- 🌱 I’m currently learning **Vue.js** and **Laravel**.  
+- 💬 Ask me about **frontend development**, **PHP**, or **chess strategies**.  
+- 📫 How to reach me: **kardash@mail.cc** or [Twitter @kardash](https://twitter.com/kardash).  
+- 😄 Pronouns: he/his.  
+- ⚡ Fun fact: Every expert started as a beginner at some point!  
 
 ---
 
-### **Connect with Me**
+### **Skills and Tools**
+#### **Frontend:**
 <p align="left">
-  <a href="https://www.linkedin.com/in/zakaria-kardache-59339a21a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zakaria Kardache" height="30" width="40" /></a>
-  <a href="https://discord.gg/karda_sch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="karda_sch" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
 </p>
 
----
-
-### **Languages and Tools**
+#### **Backend:**
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://cdn.worldvectorlogo.com/logos/c-1.svg" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+</p>
+
+#### **Tools:**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
 </p>
 
 ---
