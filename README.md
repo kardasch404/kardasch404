@@ -14,7 +14,7 @@
 </p>
 
 [![Twitter: @ZakariaKardache](https://img.shields.io/twitter/follow/ZakariaKardache?style=social)](https://twitter.com/ZakariaKardache)
-[![LinkedIn: Zakaria Kardache](https://img.shields.io/badge/LinkedIn-Zakaria_Kardache-blue)](https://www.linkedin.com/in/zakaria-kardache/)
+[![LinkedIn: Zakaria Kardache](https://img.shields.io/badge/LinkedIn-Zakaria_Kardache-blue)](https://www.linkedin.com/in/zakaria-kardache-59339a21a/)
 [![GitHub: @zakaria-123kardache](https://img.shields.io/github/followers/zakaria-123kardache?style=social)](https://github.com/zakaria-123kardache)
 
 
