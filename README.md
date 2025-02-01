@@ -1,5 +1,6 @@
 <h2> Hi, I'm Kardache Zakaria! <img src="" width="50"></h2>
 <img align='right' src="https://drive.google.com/uc?export=view&id=1dKj6Cjf3LUQ6fIHkgOwzU46X6M-UQTmG" width="230">
+![Profile Views](https://komarev.com/ghpvc/?username=zakaria-123kardache&label=Profile%20Views&color=0e75b6&style=flat)
 <p>
   <em>
     FULL stack developer learner at <a href="https://www.youcode.ma/">YouCode</a>
