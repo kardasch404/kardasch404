@@ -1,55 +1,59 @@
-<h1 align="center">Hi 👋, I'm Zakaria Kardache</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Chess Player</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Welcome+to+my+world+of+code+and+chess...">
+<h2> Hi, I'm Kardache Zakaria! <img src="" width="50"></h2>
+<img align='right' src="https://drive.google.com/uc?export=view&id=1dKj6Cjf3LUQ6fIHkgOwzU46X6M-UQTmG" width="230">
+<p>
+  <em>
+    FULL stack developer learner at <a href="https://www.youcode.ma/">YouCode</a>
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+  </em>
+</p>
+<p>
+  <em>
+    Chess Player at <a href="https://www.chess.com/member/zackkardasch">ChessDotCom</a>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGUxdWV6OXdrMnd1M3o2Z3UzaHphYmppaHN2b29hMzE5ZXAwaTJieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq7dbRe7aVioZfG/giphy.gif" width="30">
+  </em>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-123kardache&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-123kardache" /> </p>
+[![Twitter: @ZakariaKardache](https://img.shields.io/twitter/follow/ZakariaKardache?style=social)](https://twitter.com/ZakariaKardache)
+[![LinkedIn: Zakaria Kardache](https://img.shields.io/badge/LinkedIn-Zakaria_Kardache-blue)](https://www.linkedin.com/in/zakaria-kardache/)
+[![GitHub: @zakaria-123kardache](https://img.shields.io/github/followers/zakaria-123kardache?style=social)](https://github.com/zakaria-123kardache)
+
+
+### <img src="https://media.giphy.com/media/3o7TKsrf5eUMpdl0py/giphy.gif" width="50"> A little more about me...  
+
+
+```javascript
+class WhoAmI {
+  constructor() {
+    this.user = "Kardache Zakaria";
+    this.current_work = "Writing code";
+    this.hobbies = [
+      "Drawing",
+      "Watching Anime",
+      "Playing Chess",
+      "Learning New Technologies"
+    ];
+  }
+
+  getCity() {
+    return "Elyoussoufia_Morocco";
+  }
+
+  ambitions() {
+    return [
+      "Learn Japanese Und Deutsch",
+      "Become a God Developer",
+      "Master Full-Stack Development",
+      "Contribute to the Developer Community"
+      // Bonus: 😎♟️ If you play chess I’d be happy if we could set up a game ;)
+    ];
+  }
+}
+
+const me = new WhoAmI();
+me.challenge = "I am doing the #100DaysOfCode challenge focused on javascript and php";
+
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-
-### **About Me**
-- 🔭 I’m currently working on my goal 🎯 to become a good developer.  
-- 🌱 I’m currently learning **Vue.js** and **Laravel**.  
-- 💬 Ask me about **frontend development**, **PHP**, or **chess strategies**.  
-- 📫 How to reach me: **kardash@mail.cc** or [Twitter @kardash](https://twitter.com/kardash).  
-- 😄 Pronouns: he/his.  
-- ⚡ Fun fact: Every expert started as a beginner at some point!  
-
----
-
-### **Skills and Tools**
-#### **Frontend:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-</p>
-
-#### **Backend:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-</p>
-
-#### **Tools:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
-</p>
-
----
-
-### **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakaria-123kardache&show_icons=true&theme=dark&hide_border=true" alt="zakaria-123kardache" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakaria-123kardache&theme=dark&hide_border=true" alt="zakaria-123kardache" />
-</p>
