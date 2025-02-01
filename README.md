@@ -16,8 +16,9 @@
 [![Twitter: @ZakariaKardache](https://img.shields.io/twitter/follow/ZakariaKardache?style=social)](https://twitter.com/ZakariaKardache)
 [![LinkedIn: Zakaria Kardache](https://img.shields.io/badge/LinkedIn-Zakaria_Kardache-blue)](https://www.linkedin.com/in/zakaria-kardache-59339a21a/)
 [![GitHub: @zakaria-123kardache](https://img.shields.io/github/followers/zakaria-123kardache?style=social)](https://github.com/zakaria-123kardache)
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kardasch)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kardachezakaria45@example.com)
+[![Contact Me](https://img.shields.io/badge/Contact_Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kardachezakaria45@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kardasch)
 
 
@@ -63,7 +64,6 @@ me.challenge = "I am doing the #100DaysOfCode challenge focused on javascript an
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-
 ![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
