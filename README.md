@@ -19,7 +19,7 @@
 [![GitHub: @zakaria-123kardache](https://img.shields.io/github/followers/zakaria-123kardache?style=social)](https://github.com/zakaria-123kardache)
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kardasch)
-[![Contact Me](https://img.shields.io/badge/Contact_Me-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kardachezakaria45@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kardachezakaria45@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kardasch)
 
 
