@@ -13,6 +13,12 @@
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGUxdWV6OXdrMnd1M3o2Z3UzaHphYmppaHN2b29hMzE5ZXAwaTJieCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2Sq7dbRe7aVioZfG/giphy.gif" width="30">
   </em>
 </p>
+<p>
+  <em>
+     I'm currently working on <a href="https://github.com/zakaria-123kardache/CHESSIQ.git">CHESSIQ</a>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtdHBya3B4eHh5bnZoYm01NWU5MnQzdjBvOXVmOXM5dWxibHNoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tN71K4oy5YKGID1ntI/giphy.gif" width="30">
+  </em>
+</p>
 
 [![Twitter: @ZakariaKardache](https://img.shields.io/twitter/follow/ZakariaKardache?style=social)](https://twitter.com/ZakariaKardache)
 [![LinkedIn: Zakaria Kardache](https://img.shields.io/badge/LinkedIn-Zakaria_Kardache-blue)](https://www.linkedin.com/in/zakaria-kardache-59339a21a/)
