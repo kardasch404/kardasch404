@@ -1,6 +1,6 @@
 <h2> Hi, I'm Kardache Zakaria! <img src="" width="50"></h2>
 <img align='right' src="https://drive.google.com/uc?export=view&id=1dKj6Cjf3LUQ6fIHkgOwzU46X6M-UQTmG" width="230">
-<img src="https://komarev.com/ghpvc/?username=zakaria-123kardache&label=Profile%20Views&color=0e75b6&style=flat" alt="zakaria-123kardache" />
+<img src="https://komarev.com/ghpvc/?username=zakaria-123kardache&label=Profile%20Views&color=0e75b6&style=flat" alt="kardasch404" />
 <p>
   <em>
     FULL stack developer learner at <a href="https://www.youcode.ma/">YouCode</a>
@@ -15,7 +15,7 @@
 </p>
 <p>
   <em>
-     I'm currently working on <a href="https://github.com/zakaria-123kardache/CHESSIQ.git">CHESSIQ</a>
+     I'm currently working on <a href="https://github.com/kardasch404/CHESSIQ.git">CHESSIQ</a>
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhtdHBya3B4eHh5bnZoYm01NWU5MnQzdjBvOXVmOXM5dWxibHNoMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tN71K4oy5YKGID1ntI/giphy.gif" width="30">
   </em>
 </p>
