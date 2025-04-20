@@ -22,7 +22,7 @@
 
 [![Twitter: @ZakariaKardache](https://img.shields.io/twitter/follow/ZakariaKardache?style=social)](https://twitter.com/ZakariaKardache)
 [![LinkedIn: Zakaria Kardache](https://img.shields.io/badge/LinkedIn-Zakaria_Kardache-blue)](https://www.linkedin.com/in/zakaria-kardache-59339a21a/)
-[![GitHub: @zakaria-123kardache](https://img.shields.io/github/followers/zakaria-123kardache?style=social)](https://github.com/kardasch404)
+[![GitHub: @kardasch404](https://img.shields.io/github/followers/zakaria-123kardache?style=social)]([https://github.com/kardasch404](https://github.com/kardasch404))
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kardasch)
 [![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kardachezakaria45@gmail.com)
