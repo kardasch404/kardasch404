@@ -112,7 +112,7 @@ me.challenge = "I am doing the #100DaysOfCode challenge focused on javascript an
   <img src="https://github-readme-stats.vercel.app/api?username=kardasch404&theme=tokyonight&show_icons=true" height=150 />
 </a>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kardasch404&layout=donut&theme=tokyonight&langs_count=8&hide_border=true" height=150 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kardasch404&layout=donut&theme=tokyonight&langs_count=10&hide_border=true&hide=html,css&include_all_commits=true" height=150 />
 </a>
 <br>
 <a>
