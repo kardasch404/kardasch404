@@ -70,10 +70,11 @@ me.challenge = "I am doing the #100DaysOfCode challenge focused on javascript an
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Json](https://img.shields.io/badge/-Json-05122A?style=flat&logo=json)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -112,7 +113,7 @@ me.challenge = "I am doing the #100DaysOfCode challenge focused on javascript an
   <img src="https://github-readme-stats.vercel.app/api?username=kardasch404&theme=tokyonight&show_icons=true" height=150 />
 </a>
 <a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kardasch404&layout=donut&theme=tokyonight&langs_count=10&hide_border=true&hide=html,css&include_all_commits=true" height=150 />
+  <img src="https://skillicons.dev/icons?i=php,python,js,react,laravel,c,mysql,typescript&theme=dark" height=150 />
 </a>
 <br>
 <a>
