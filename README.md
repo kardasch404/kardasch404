@@ -84,6 +84,7 @@ me.challenge = "I am doing the #100DaysOfCode challenge focused on javascript an
 
 ![Blade](https://img.shields.io/badge/-Blade-05122A?style=flat&logo=laravel&logoColor=white)&nbsp;
 ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=api&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FE7A16?style=for-the-badge&logo=postman&logoColor=white)\
 
 
@@ -103,22 +104,19 @@ me.challenge = "I am doing the #100DaysOfCode challenge focused on javascript an
 
 
 
+### 📊 GitHub Stats & Tech Stack
+
 <div align="center">
-
-
-
-<div align="left">
-<a>
-  <img src="https://github-readme-stats.vercel.app/api?username=kardasch404&theme=tokyonight&show_icons=true" height=150 />
-</a>
-<a>
-  <img src="https://skillicons.dev/icons?i=php,python,js,react,laravel,c,mysql,typescript&theme=dark" height=150 />
-</a>
-<br>
-<a>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kardasch404&theme=rogue" width="50%" height="200" alt="GitHub Activity Graph"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=kardasch404&theme=tokyonight&show_icons=true&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kardasch404&theme=tokyonight&hide_border=true" height="170" />
 </div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,js,typescript,react,laravel,c,mysql,postgres,docker,graphql,git,github,vscode,figma,postman&perline=8&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kardasch404&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 
