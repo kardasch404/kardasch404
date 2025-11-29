@@ -104,10 +104,9 @@ me.challenge = "I am doing the #100DaysOfCode challenge focused on javascript an
 
 
 
-### 📊 GitHub Stats & Tech Stack
+### GitHub Stats & Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kardasch404&theme=tokyonight&show_icons=true&hide_border=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kardasch404&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
