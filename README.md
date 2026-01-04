@@ -1,4 +1,4 @@
-<h2> Hi, I'm Kardache Zakaria! <img src="" width="50"></h2>
+<h2> Hi, I'm Kardache Zakaria! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"></h2>
 <img align='right' src="https://drive.google.com/uc?export=view&id=1dKj6Cjf3LUQ6fIHkgOwzU46X6M-UQTmG" width="230">
 <img src="https://komarev.com/ghpvc/?username=zakaria-123kardache&label=Profile%20Views&color=0e75b6&style=flat" alt="kardasch404" />
 <p>
@@ -85,7 +85,7 @@ me.challenge = "I am doing the #100DaysOfCode challenge focused on javascript an
 ![Blade](https://img.shields.io/badge/-Blade-05122A?style=flat&logo=laravel&logoColor=white)&nbsp;
 ![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat&logo=api&logoColor=white)&nbsp;
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FE7A16?style=for-the-badge&logo=postman&logoColor=white)\
+![Postman](https://img.shields.io/badge/Postman-FE7A16?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -107,7 +107,8 @@ me.challenge = "I am doing the #100DaysOfCode challenge focused on javascript an
 ### GitHub Stats & Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kardasch404&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kardasch404&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kardasch404&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 </div>
 
 <div align="center">
